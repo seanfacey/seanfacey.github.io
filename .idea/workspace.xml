@@ -37,11 +37,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="129" />
-    <option name="y" value="87" />
-    <option name="width" value="2614" />
-    <option name="height" value="1405" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2164" />
+    <option name="y" value="223" />
+    <option name="width" value="2260" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -56,6 +56,16 @@
             <path>
               <item name="seanfacey.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="seanfacey.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seanfacey.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seanfacey.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seanfacey.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seanfacey.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,6 +135,9 @@
       <listeners />
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fe2de262-1b3b-4148-992e-b412df08f051" name="Default" comment="" />
@@ -132,15 +145,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607291771841</updated>
-      <workItem from="1607291785269" duration="10000" />
+      <workItem from="1607291785269" duration="362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10000" />
+    <option name="totallyTimeSpent" value="362000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="129" y="87" width="2614" height="1405" extended-state="0" />
+    <frame x="-1920" y="223" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -156,7 +169,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34010416" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -172,6 +185,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">

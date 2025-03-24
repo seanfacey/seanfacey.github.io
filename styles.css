@@ -1,0 +1,30 @@
+html, body {
+  background: rgb(16,13,61);
+  background: linear-gradient(0deg, rgba(16,13,61,1) 0%, rgba(25,0,128,1) 100%);
+  position: relative;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  position: relative;
+  top: 40%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+h1 {
+  color: #FFFFFF;
+  margin: 0;
+  display: inline;
+}
+
+a, a:visited {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

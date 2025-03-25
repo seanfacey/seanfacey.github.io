@@ -1,5 +1,5 @@
 html, body {
-  background: rgb(16,13,61);
+  background: rgb(6,15,19);
   position: relative;
   height: 100%;
   margin: 0;
@@ -14,16 +14,50 @@ main {
 }
 
 h1 {
+  font-family: Georgia;
+  font-size: 48px;
   color: #FFFFFF;
   margin: 0;
   display: inline;
 }
 
-a, a:visited {
+a, a1, a:visited {
+  font-family: Metric;
   color: #FFFFFF;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Common styles for all containers */
+.location-container,
+.email-container,
+.linkedin-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+}
+
+/* Add margin between the containers */
+.location-container,
+.email-container {
+  margin-bottom: 12px;
+}
+
+/* Style for all icons */
+.location-icon,
+.email-icon,
+.linkedin-icon {
+  color: #FFFFFF;
+  width: 24px;
+  height: 24px;
+}
+
+/* Optional: styling for the location text */
+.location-container span {
+  color: #555;
 }
